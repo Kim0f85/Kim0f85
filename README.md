@@ -34,7 +34,11 @@
 
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 
+<h2> 🪛  tool </h2>
+<div>
 
+ ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+ ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim0f85&layout=compact) 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim0f85&show_icons=true&theme=holi)
