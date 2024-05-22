@@ -23,6 +23,12 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
  
 </div>
+<h2> 🍿  Framework </h2>
+
+<div>
+ 
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+</div>
 
 
     
