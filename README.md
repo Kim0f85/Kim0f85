@@ -16,6 +16,14 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
  
 </div>
+<h2>💻 SQL Stack </h2>
+<div>
+
+ 
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+ 
+</div>
+
 
     
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim0f85&layout=compact) 
@@ -23,8 +31,4 @@
   
    </div>
 
-   </div>
-
-
-<h2>💻 SQL Stack </h2>
-<div>
+ 
